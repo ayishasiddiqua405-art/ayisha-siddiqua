@@ -1,5 +1,3 @@
-# Ayisha Siddiqua 
-
 ## Projects
 
 [Learn Track AI]  
