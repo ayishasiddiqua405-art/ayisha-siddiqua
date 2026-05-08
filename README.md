@@ -1,4 +1,4 @@
-# Ayisha Siddiqua 👋
+# Ayisha Siddiqua 
 
 ## Projects
 
