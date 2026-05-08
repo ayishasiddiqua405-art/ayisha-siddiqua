@@ -14,7 +14,7 @@ https://bug-slayers-web.netlify.app/
 Educational Website  
 https://educational-website-home.netlify.app/
 
-E-commerce web`site
+E-commerce website
 https://evara-e-commerce-website.netlify.app/
 
 
